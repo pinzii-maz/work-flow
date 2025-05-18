@@ -1,1 +1,10 @@
-hai ini apalah
+user.name 
+user.email
+
+git init
+git add . 
+git commit -m "sembarang"
+
+git remote add origin https://github.com/pinzii-maz/work-flow.git
+
+git push -u origin master 
